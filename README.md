@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @smart-som
 - 👀 I’m interested in any front-end job 
 - 🌱 I’m currently learning javascript and php 
-- 📫 How to reach me what'sapp 09026479582 
+- 📫 How to reach me what'sapp +2349026479582
 
 <!---
 smart-som/smart-som is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
