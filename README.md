@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/samson-ojukwu-mba-" target="_blank">
+  <a href="https://www.linkedin.com/in/samson-ojukwu-mba-89445720a/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://twitter.com/mba_ojukwu" target="_blank">
@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I am Sam<br><br>- 🔭 Welcome<br>- 📚 I'm currently looking for a PM role<br>- ⚡ In my free time I learn new tech</p>
+<h5 align="left">I am Sam<br><br>- 🔭 Welcome<br>- 📚 I'm currently looking for a PM role<br>- ⚡ In my free time I learn new tech</h5>
 
 ###
 
@@ -70,7 +70,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/samson-ojukwu-mba-" target="_blank">
+  <a href="https://www.linkedin.com/in/samson-ojukwu-mba-89445720a/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://twitter.com/mba_ojukwu" target="_blank">
@@ -85,9 +85,7 @@
 </div>
 
 ###
-###
 
-<!---
-smart-som/smart-som is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h6 align="left">Hello! Nice to have you visit. 😊</h6>
+
+###
