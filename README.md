@@ -23,11 +23,11 @@
 
 ###
 
-<h5 align="left">I am Sam<br><br>- 🔭 Welcome<br>- 📚 I'm currently looking for a PM role<br>- ⚡ In my free time I learn new tech</h5>
+<p align="left">I am Sam<br><br>- 🔭 Welcome<br>- 📚 I'm currently looking for a PM role<br>- ⚡ In my free time I learn new tech</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<p align="left">🛠 Language and tools</p>
 
 ###
 
@@ -59,7 +59,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<p align="left">🔥   My Stats :</p>
 
 ###
 
@@ -86,6 +86,6 @@
 
 ###
 
-<h6 align="left">Hello! Nice to have you visit. 😊</h6>
+<p align="left">Hello! Nice to have you visit. 😊</p>
 
 ###
